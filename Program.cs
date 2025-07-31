@@ -9,7 +9,6 @@
 
         Console.WriteLine("Olá, Leonardo!");
         Console.WriteLine("Bem vindo ao meu Mundo de Programação C#");
-
         Console.WriteLine("A soma é igual a:" + soma);
     }
 }
